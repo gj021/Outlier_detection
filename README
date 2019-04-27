@@ -1,0 +1,8 @@
+Requirements:
+  python3 setup
+  pandas
+  pickle
+
+Execution:
+  Execute pre.py file for preprocessing. this needs to be done only once
+  Execute run.py and follow the instructions on the terminal for further execution
